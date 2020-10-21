@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage> {
             child: Text("logout"),
           ),
           ActivityFeedPage(),
-          UpLoadPage(),
+          UpLoadPage(currentUser:currentUser),
           SearchPage(),
           ProfilePage(),
         ],

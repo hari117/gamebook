@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497762749367",
+    "firebase_url": "https://gamebook-ddb51.firebaseio.com",
+    "project_id": "gamebook-ddb51",
+    "storage_bucket": "gamebook-ddb51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497762749367:android:e321c4ebab9a6ee4093632",
+        "android_client_info": {
+          "package_name": "vip.hari.gamebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497762749367-t201r70q8s2n6qn2bcku17m63itsdso4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vip.hari.gamebook",
+            "certificate_hash": "369ba344e6faed9c9fb33b1ca43323796cd9972f"
+          }
+        },
+        {
+          "client_id": "497762749367-v972hqi4u9qrlmh8cl61dmjbhv4dbq37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNFS5-3bPS9dJ5AoPlFAfr-fQ7rxyt-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497762749367-v972hqi4u9qrlmh8cl61dmjbhv4dbq37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
